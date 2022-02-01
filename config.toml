@@ -33,10 +33,10 @@ Currently trying to get this blog running, still don't know what the blog will b
 [params.social]
   github = "<username>"
   linkedin = "<username>"
-  xing = "<username>"
-  medium = "<username>"
   twitter = "<username>"
   instagram = "<username>"
+  # xing = "<username>"
+  # medium = "<username>"
 
 ## Main Menu
 [[menu.main]]
