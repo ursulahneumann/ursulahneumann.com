@@ -31,10 +31,10 @@ Currently trying to get this blog running, still don't know what the blog will b
   alertbar = false
 
 [params.social]
-  github = "<username>"
-  linkedin = "<username>"
-  twitter = "<username>"
-  instagram = "<username>"
+  github = "ursulahneumann"
+  linkedin = "ursulahneumann"
+  twitter = "ursulahneumann"
+  instagram = "ursulahneumann"
   # xing = "<username>"
   # medium = "<username>"
 
