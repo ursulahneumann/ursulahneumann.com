@@ -2,6 +2,12 @@
     <p>Share</p>
     <ul>
         <li class="ml-1 mr-1">
+        <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }} &title={{ .Title | htmlEscape }} &summary={{ .Summary | htmlEscape }}&source=LinkedIn" onclick="window.open(this.href, 'linkedin-share', 'width=550,height=435');return false;">       
+        <i class="fab fa-linkedin"></i>
+        </a>
+        </li> 
+
+        <li class="ml-1 mr-1">
         <a target="_blank" href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=435');return false;">
         <i class="fab fa-twitter"></i>
         </a>
@@ -13,11 +19,7 @@
         </a>
         </li>
 
-        <li class="ml-1 mr-1">
-        <a target="_blank" href="https://www.xing.com/spi/shares/new?url={{ .Permalink }}" onclick="window.open(this.href, 'xing-share', 'width=550,height=435');return false;">
-        <i class="fab fa-xing"></i>
-        </a>
-        </li>        
+       
     </ul>
 
     {{ if .Params.comments }}
