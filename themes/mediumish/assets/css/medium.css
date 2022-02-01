@@ -295,7 +295,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    max-height: 40px;
     margin-right: 5px;
 }
 
@@ -845,4 +845,9 @@ iframe {
 
 .sticky-top-80 {
     top: 80px;
+}
+
+.navbar-brand {
+    padding-top:0;
+    padding-bottom:0;
 }
