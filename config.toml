@@ -15,13 +15,13 @@ publishDir = "docs"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
-  name = "John Doe"
+  name = "Ursula Neumann"
   thumbnail = "/images/headshot.jpg"
   description = "Creator of this blog."
 
 [params.index]
   picture = "/images/headshot.jpg"
-  title = "John Doe"
+  title = "Ursula Neumann"
   subtitle = "I'm a unique placeholder. Working here and there!"
   mdtext = '''
 Currently trying to get this blog running, still don't know what the blog will be about!\
