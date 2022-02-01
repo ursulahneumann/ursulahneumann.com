@@ -6,7 +6,7 @@ summaryLength = 25
 copyright = "Ursula Neumann - All rights reserved"
 enableEmoji = true
 publishDir = "docs"
-#disqusShortname = "your-shortname-here"
+disqusShortname = "disqus_Cmz56Nw45Q"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
 [params]
