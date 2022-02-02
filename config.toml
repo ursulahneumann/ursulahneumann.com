@@ -21,12 +21,19 @@ disqusShortname = "disqus_Cmz56Nw45Q"
 
 [params.index]
   picture = "/images/headshot.jpg"
-  title = "Ursula Neumann"
-  subtitle = "I'm a unique placeholder. Working here and there!"
+  title = "Ursula Neumann PhD"
+  subtitle = ""
   mdtext = '''
-Currently trying to get this blog running, still don't know what the blog will be about!\
-**This textblock is a demonstration of the mdtext-param.**\
-### This is a markdown heading
+Hi and welcome! I currently work as a Senior Scientist @ [Pawsperity Biotechnologies](pawsperitybio.ca), \
+an early stage startup working on improving animal health through biomarker discovery.  
+
+
+I received my PhD in Cell and Developmental Biology at the University of British Columbia \
+studying diabetes in 2017.  Since then I have focused on improving my data anlysis and \
+machine learning skills. In my free time I love to explore Vancouver's trails, \
+practice yoga, and take pictures of flowers ([@bloomvancouver](https://www.instagram.com/bloomvancouver/)).
+
+
 '''
   alertbar = false
 
