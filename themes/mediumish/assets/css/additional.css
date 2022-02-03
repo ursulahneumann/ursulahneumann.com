@@ -1,6 +1,7 @@
 .index-title{
     color: rgba(0,0,0,.84);
     margin-top:20px;
+    font-size:1.8rem;
 }
 .index-sub{
     color: rgba(0,0,0,.54);
@@ -11,7 +12,7 @@
     color: rgba(0,0,0,.44);
 }
 .index-image{
-    width: 250px;
+    width: 225px;
 }
 .social-icon{
     color: rgba(0,0,0,.44);

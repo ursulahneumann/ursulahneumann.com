@@ -24,15 +24,14 @@ disqusShortname = "disqus_Cmz56Nw45Q"
   title = "Ursula Neumann PhD"
   subtitle = ""
   mdtext = '''
-Hi and welcome! I currently work as a Senior Scientist @ [Pawsperity Biotechnologies](pawsperitybio.ca), \
-an early stage startup working on improving animal health through biomarker discovery.  
+Hi and welcome! I received my PhD in Cell and Developmental Biology at the University of \
+British Columbia researching diabetes.  Currently I work as a Senior Scientist @ [Pawsperity Biotechnologies](pawsperitybio.ca), \
+an early stage start-up working on improving animal health through biomarker discovery.  
 
 
-I received my PhD in Cell and Developmental Biology at the University of British Columbia \
-studying diabetes in 2017.  Since then I have focused on improving my data anlysis and \
-machine learning skills. In my free time I love to explore Vancouver's trails, \
-practice yoga, and take pictures of flowers ([@bloomvancouver](https://www.instagram.com/bloomvancouver/)).
-
+In my free time I love to explore Vancouver's trails, practice yoga, and take pictures of \
+flowers [@bloomvancouver](https://www.instagram.com/bloomvancouver/)).  I hope to share projects on a range of topics including just-for-fun \
+data analyses, easy-to-follow tutorials, and more complex machine learning explorations.
 
 '''
   alertbar = false
