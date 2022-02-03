@@ -47,15 +47,15 @@ data analyses, easy-to-follow tutorials, and more complex machine learning explo
 
 ## Main Menu
 [[menu.main]]
-    name = "Blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog"
-[[menu.main]]
     name = "About"
     identifier = "about"
-    weight = 200
+    weight = 100
     url = "/"
+[[menu.main]]
+    name = "Blog"
+    weight = 200
+    identifier = "blog"
+    url = "/blog"
 #[[menu.main]]
 #    name = "Imprint"
 #    identifier = "imprint"
