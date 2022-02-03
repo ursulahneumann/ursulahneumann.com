@@ -1,6 +1,6 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "Mediumish"
+title = "Ursula Neumann's Blog"
 theme = "mediumish"
 summaryLength = 25
 copyright = "Ursula Neumann - All rights reserved"
@@ -11,7 +11,7 @@ disqusShortname = "disqus_Cmz56Nw45Q"
 
 [params]
   logo = "/images/logo.png"
-  description ="the clean blog!"
+  description =""
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
