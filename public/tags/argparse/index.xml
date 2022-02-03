@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>argparse on Ursula Neumann&#39;s Blog</title>
-    <link>https://ursulahneumann.com/tags/argparse/</link>
+    <link>https://www.ursulahneumann.com/tags/argparse/</link>
     <description>Recent content in argparse on Ursula Neumann&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ursula Neumann - All rights reserved</copyright>
-    <lastBuildDate>Wed, 02 Feb 2022 16:46:13 -0800</lastBuildDate><atom:link href="https://ursulahneumann.com/tags/argparse/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 16:46:13 -0800</lastBuildDate><atom:link href="https://www.ursulahneumann.com/tags/argparse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simple Argparse Example</title>
-      <link>https://ursulahneumann.com/blog/simple-argparse-example/</link>
+      <link>https://www.ursulahneumann.com/blog/simple-argparse-example/</link>
       <pubDate>Wed, 02 Feb 2022 16:46:13 -0800</pubDate>
       
-      <guid>https://ursulahneumann.com/blog/simple-argparse-example/</guid>
+      <guid>https://www.ursulahneumann.com/blog/simple-argparse-example/</guid>
       <description>For when you cry when you look at the argparse documentation, here is the simpliest argparse example I always come back to.</description>
     </item>
     
