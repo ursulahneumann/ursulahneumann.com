@@ -4,7 +4,7 @@ date: 2022-01-31T21:05:16-08:00
 publishdate: 2022-01-31T21:05:16-08:00
 tags: ["python", "just-for-fun"]
 comments: true
-draft: true
+draft: false
 ---
 
 A just-for-fun project that simulates our family's horsey game of chance.
