@@ -9,3 +9,7 @@ draft: false
 ---
 
 For when you cry when you look at the argparse documentation, here is the simpliest argparse example I always come back to.
+
+{{< highlight python "linenos=table, linenostart=1" >}}
+import argparse
+{{< / highlight >}}

@@ -61,3 +61,17 @@ data analyses, easy-to-follow tutorials, and more complex machine learning explo
 #    identifier = "imprint"
 #    weight = 200
 #    url = "/static/imprint"
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = 'pygments'
+    tabWidth = 4
