@@ -75,3 +75,6 @@ data analyses, easy-to-follow tutorials, and more complex machine learning explo
     noClasses = true
     style = 'pygments'
     tabWidth = 4
+
+[markup.goldmark.renderer]
+  unsafe= true
