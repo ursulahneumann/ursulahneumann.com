@@ -4,3 +4,9 @@
 
 # Hugo build
 /public
+
+# Powerpoint containing logo
+*.ppt
+
+# Word doc with notes
+*.docx
