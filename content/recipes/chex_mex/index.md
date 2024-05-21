@@ -2,7 +2,7 @@
 title: "Chex-Mex"
 date: 2023-12-29T21:05:16-08:00
 publishdate: 2023-12-29T21:05:16-08:00
-tags: ["check-mex", "snack"]
+recipe_tags: ["check-mex", "snack"]
 comments: true
 draft: false
 summary: "Very addicting salty snack."

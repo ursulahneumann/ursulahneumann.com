@@ -2,7 +2,7 @@
 title: "Homemade Alfredo Sauce"
 date: 2023-12-29T21:05:16-08:00
 publishdate: 2023-12-29T21:05:16-08:00
-tags: ["alfredo", "sauce"]
+recipe_tags: ["alfredo", "sauce"]
 comments: true
 draft: false
 summary: "Homemade alfredo sauce based off a FreshPrep recipe."

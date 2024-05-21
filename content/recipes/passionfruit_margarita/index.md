@@ -2,7 +2,7 @@
 title: "Passionfruit Margarita"
 date: 2023-12-29T21:05:16-08:00
 publishdate: 2023-12-29T21:05:16-08:00
-tags: ["passionfruit", "margarita", "cocktail"]
+recipe_tags: ["passionfruit", "margarita", "cocktail"]
 comments: true
 draft: false
 summary: "Passionfruit's my favourite fruit, margarita style."

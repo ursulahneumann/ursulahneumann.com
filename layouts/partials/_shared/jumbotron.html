@@ -1,0 +1,41 @@
+<!-- Categories Jumbotron
+================================================== -->
+{{/* This is copied from the theme file, but we're overriding it to have tags 
+ only generated from the appropriate sections of the website. I.e. food stuff
+ regular blog stuff are separated. */}}
+<div class="jumbotron fortags">
+	<div class="d-md-flex h-100">
+		<div class="col-md-4 transpdark align-self-center text-center h-100">
+			<div class="d-md-flex align-items-center justify-content-center h-100">
+				<h2 class="d-md-block d-none align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline">→</span></h2>
+			</div>
+		</div>
+		<div class="col-md-8 p-5 align-self-center text-center">
+			{{/* The Section is the top-level routing e.g. /blog/ or /tags/.
+				blog/tags is the main site, recipes/recipe_tags is the food 
+				section.
+
+				We'll grab different taxonomies for the tag links based on what
+				section we're in.
+
+				Since we rarely code in Hugo templates, the := is assignment,
+				the $xyz are variables, the or/eq have the arguments following.
+				Don't forget the end tags.
+				*/}}
+			
+			{{ $section := .Section }}
+
+			{{ if or (eq $section "blog") (eq $section "tags") }}
+				{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+				<a class="mt-1 mb-1" href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
+				{{ end }}
+			{{ end }}
+
+			{{ if or (eq $section "recipes") (eq $section "recipe_tags") }}
+				{{ range $name, $taxonomy := .Site.Taxonomies.recipe_tags }}
+				<a class="mt-1 mb-1" href="{{ "/recipe_tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
+				{{ end }}
+			{{ end }}
+		</div>
+	</div>
+</div>

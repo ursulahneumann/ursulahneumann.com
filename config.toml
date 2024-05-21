@@ -78,3 +78,8 @@ data analyses, easy-to-follow tutorials, and more complex machine learning explo
 
 [markup.goldmark.renderer]
   unsafe= true
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+  recipe_tag = 'recipe_tags'

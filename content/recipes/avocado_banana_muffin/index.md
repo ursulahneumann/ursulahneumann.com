@@ -2,7 +2,7 @@
 title: "Avocado Banana Muffin"
 date: 2023-12-29T21:05:16-08:00
 publishdate: 2023-12-29T21:05:16-08:00
-tags: ["avocado", "banana", "muffin"]
+recipe_tags: ["avocado", "banana", "muffin"]
 comments: true
 draft: false
 summary: "For when you are like 'oh shit that avocado AND banana are ready at the same time!'"

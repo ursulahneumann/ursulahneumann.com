@@ -2,7 +2,7 @@
 title: "Cornbread Without Buttermilk"
 date: 2023-12-29T21:05:16-08:00
 publishdate: 2023-12-29T21:05:16-08:00
-tags: ["Cornbread"]
+recipe_tags: ["Cornbread"]
 comments: true
 draft: false
 summary: "A cornbread recipe without buttermilk for when you find curdled milk gross."
